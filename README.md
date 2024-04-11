@@ -3,4 +3,5 @@ Youtube Website Clone
 
 LINK: https://aesthetic-kleicha-15aa8c.netlify.app/
 
-![Screenshot from 2024-04-11 19-45-06](https://github.com/merndeveloper-hub/Youtube_Clone/assets/67875982/5fe76035-0442-47d2-9f48-259abbd792fd)
+[Screencast from 11-04-2024 21:51:02.webm](https://github.com/merndeveloper-hub/Youtube_Clone/assets/67875982/8e38bf09-6e23-4766-9f40-2d73f46823e0)
+
